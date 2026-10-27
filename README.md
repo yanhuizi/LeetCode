@@ -20,3 +20,7 @@
 4. 在 LeetCode 提交。
 5. 把卡住的地方记录到 `Review/错题本.md`。
 6. 做完一题提交一次 Git。
+
+注意，修改自动匹配的目录步骤：
+1.打开设置
+2.搜索 leetcode workspace
